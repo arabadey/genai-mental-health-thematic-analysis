@@ -30,3 +30,38 @@ The broader study investigates:
   User experience (UX) with AI chatbots,
   Chatbot positioning (supplement, alternative, or limited support), and
   Sentiment toward AI use (positive, negative, mixed, neutral)
+
+├── scripts/
+│   ├── 01_data_separation.py
+│   ├── 02_data_cleaning.py
+│   ├── 03_filtering_posts.py
+│   └── 04_sampling_posts.py
+│
+├── data/
+│   └── README.md
+│
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+
+Requirements
+Install dependencies with:
+pip install -r requirements.txt
+
+Data Availability
+Raw Reddit data are not included in this repository to protect user privacy and comply with research and ethical guidelines.
+
+Outcomes:
+This pipeline supported:
+
+The development of a thematic coding framework,
+Identification of key themes (emotional support, self-understanding, limited/risky support), and
+Analysis of user sentiment and AI positioning
+
+The findings contribute to understanding how generative AI is being integrated into real-world mental health practices.
+
+Author:
+Aayush Rabadey
+Master of Professional Science in Biomedical Health Informatics
+UNC Chapel Hill
