@@ -32,14 +32,13 @@ The broader study investigates:
   Sentiment toward AI use (positive, negative, mixed, neutral)
 
 ├── scripts/
-│   ├── 01_data_separation.py
-│   ├── 02_data_cleaning.py
-│   ├── 03_filtering_posts.py
+│   ├── 01_load_and_profile.py
+│   ├── 02_split_posts_comments.py
+│   ├── 03_filter_posts_relevance.py
 │   └── 04_sampling_posts.py
 │
 ├── data/
 │   └── README.md
-│
 │
 ├── requirements.txt
 ├── .gitignore
@@ -64,4 +63,4 @@ The findings contribute to understanding how generative AI is being integrated i
 Author:
 Aayush Rabadey
 Master of Professional Science in Biomedical Health Informatics
-UNC Chapel Hill
+UNC Chapel Hill, Carolina Health Informatics Program
