@@ -31,6 +31,7 @@ The broader study investigates:
   Chatbot positioning (supplement, alternative, or limited support), and
   Sentiment toward AI use (positive, negative, mixed, neutral)
 
+Repository Structure:
 ├── scripts/
 │   ├── 01_load_and_profile.py
 │   ├── 02_split_posts_comments.py
