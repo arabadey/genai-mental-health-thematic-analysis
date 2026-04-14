@@ -9,22 +9,22 @@ Objectives:
   Generate a structured sample for manual coding and analysis
   Support downstream analysis of sentiment and user positioning
 
-Methods & Approach
+Methods & Approach:
 The pipeline was developed using Python and follows a structured preprocessing workflow:
-Data Separation
+1. Data Separation
   Extract relevant fields (title, body, timestamps, etc.)
-Data Cleaning
+2. Data Cleaning
   Remove noise (formatting issues, missing values, inconsistencies)
   Standardize text for analysis
-Filtering
+2. Filtering
   Apply inclusion/exclusion criteria
   Retain posts related to generative AI and mental health experiences
-Sampling
+4. Sampling
   Generate a representative subset of posts for thematic analysis
 
 This preprocessing pipeline supported an inductive thematic analysis, allowing patterns and themes to emerge directly from the data.
 
-Research Focus
+Research Focus:
 The broader study investigates:
   Generative AI in mental health contexts
   User experience (UX) with AI chatbots
